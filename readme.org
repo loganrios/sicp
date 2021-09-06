@@ -1,0 +1,7 @@
+#+TITLE: Wizard Book Live!
+
+Working through the (in?)famous textbook "Structure and Interpretation of Computer Programs", on twitch.
+
+I don't plan on polishing this or making it usable as an official reference for answers--this exists solely to track my own progress through the book (and, to some degree, prove that I did do it myself). If you do need such a resource, I have been referring to the answers on this repository:
+
+https://github.com/ivanjovanovic/sicp
